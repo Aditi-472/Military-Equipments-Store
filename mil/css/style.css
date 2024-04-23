@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar ,.foteer{
+    background-color: #212529;
+}
+/* .a.nav-link.active
+{
+    color: white;
+ 
+} */
+a.nav-link {
+    color: white;
+}
+a.nav-link:hover {
+    color: yellowgreen;
+    transition: 0.3s;
+}
+.nav-item{
+    font-weight: 500;
+    padding: 2px;
+}
+li.nav-item {
+    padding: 2px;
+}
+.test
+{
+    color:white;
+}
+.join
+{
+    border: 2px solid goldenrod;
+    height: 80px;
+    text-align: center;
+    /* margin: 10px 10px 10px 10px; */
+    color: blue;
+    background-color: white;
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+    font-size: 300%;
+    padding:4px;
+    margin:0px;
+}
+.abd
+{
+    text-align: center;
+}
+
+.faqs {
+    background-color: #4A4A4A;
+}
+.team
+{
+ background-color: #D2FFD09E;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: rgb(255 255 255);
+}
+
+ul>li {
+    list-style: none;
+}
+ul>li>a {
+    text-decoration: none;
+    color: white;
+}
+
+ul>li>a:hover {
+    color:yellowgreen;
+}
+
